@@ -1,5 +1,9 @@
 # The Terrifying Physics of the Ender Pearl
 
+30/05/2026
+
+---
+
 If you have ever played Minecraft, you know the feeling of throwing an Ender Pearl. You toss a small, glowing green orb, watch it arc through the air, hear a shattering sound, and suddenly you are standing exactly where it landed. It is a simple, convenient way to cross ravines or escape danger.
 
 It is one of those mechanics you accept immediately. It is just how the Minecraft world works. I used to treat it that way too. Then I made the mistake of looking at the numbers behind it.
