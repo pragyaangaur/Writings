@@ -1,5 +1,5 @@
 # Writings
-Records from strange experiments.
+Non-peer-reviewed records from my strange experiments.
 
 1. [12 A.M. on my College MIS](/MIS.md)  
    25/05/2026
